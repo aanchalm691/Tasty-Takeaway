@@ -1,5 +1,5 @@
 {
-  "name": "tasty-takeaway",
+  "name": "tasty_takeaway",
   "version": "1.0.0",
   "description": "This is tasty-takeaway a food app by aanchal",
   "scripts": {
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aanchalm691/Tasty-Takeaway.git"
+    "url": "git+https://github.com/aanchalm691/tasty_takeaway.git"
   },
   "keywords": [],
   "author": "Aanchal Manocha",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/aanchalm691/Tasty-Takeaway/issues"
+    "url": " https://github.com/aanchalm691/tasty_takeaway/issues"
   },
-  "homepage": "https://github.com/aanchalm691/Tasty-Takeaway#readme",
+  "homepage": " https://github.com/aanchalm691/tasty_takeaway#readme",
   "devDependencies": {
     "cross-env": "^7.0.3",
     "parcel": "^2.14.4"
