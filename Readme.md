@@ -33,8 +33,9 @@
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/aanchalm691/tasty-takeaway.git
-cd tasty-takeaway
+git clone https://github.com/aanchalm691/tasty_takeaway.git
+
+cd tasty_takeaway
 ````
 
 ### 2. Install Dependencies
