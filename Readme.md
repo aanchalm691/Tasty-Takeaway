@@ -1,6 +1,6 @@
 # 🍽️ Tasty Takeaway
 
-**Tasty Takeaway** is a simple and dynamic food listing app built with ReactJS, designed to showcase top restaurants using clean, card-style layouts. Built as a learning project, it focuses on implementing search and filter features using static data while reinforcing core React and JavaScript concepts.
+**Tasty Takeaway** is a dynamic food listing app built with ReactJS, designed to showcase top restaurants using clean, card-style layouts. Built as a learning project, it focuses on implementing search and filter features using static data while reinforcing core React and JavaScript concepts.
 
 ---
 
